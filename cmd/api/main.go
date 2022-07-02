@@ -20,10 +20,13 @@ func main() {
 		},
 	)
 
-	badge, _ := getBadgeUC.Do()
+	badge, err := getBadgeUC.Do()
+	if err != nil {
+		panic(err)
+	}
 
 	//Download badge image
-	err := DownloadFile("badge.png", badge.ImageURL)
+	err = DownloadFile("badge.png", badge.ImageURL)
 	if err != nil {
 		panic(err)
 	}
