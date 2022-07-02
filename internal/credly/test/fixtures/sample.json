@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "id": "f333a12b-90c0-49a7-bab4-489c03b4c42d",
+      "expires_at_date": "2025-05-22",
+      "issued_at_date": "2022-05-22",
+      "issued_to": "Robert Banaszak",
+      "locale": "en",
+      "public": true,
+      "state": "accepted",
+      "translate_metadata": false,
+      "accepted_at": "2022-05-23T04:18:04.010-05:00",
+      "expires_at": "2025-05-21T19:00:00.000-05:00",
+      "issued_at": "2022-05-21T19:00:00.000-05:00",
+      "last_updated_at": "2022-05-23T04:18:04.010-05:00",
+      "updated_at": "2022-05-23T04:18:04.012-05:00",
+      "earner_path": "/users/robert-banaszak",
+      "earner_photo_url": null,
+      "is_private_badge": false,
+      "user_is_earner": false,
+      "issuer": {
+        "summary": "issued by Amazon Web Services Training and Certification",
+        "entities": [
+          {
+            "label": "Issued by",
+            "primary": true,
+            "entity": {
+              "type": "Organization",
+              "id": "7b741b5c-231d-4925-8041-c64b6846f1c8",
+              "name": "Amazon Web Services Training and Certification",
+              "url": "https://www.credly.com/api/v1/organizations/7b741b5c-231d-4925-8041-c64b6846f1c8",
+              "vanity_url": "https://www.credly.com/org/amazon-web-services",
+              "internationalize_badge_templates": false,
+              "share_to_ziprecruiter": true,
+              "verified": false
+            }
+          }
+        ]
+      },
+      "badge_template": {
+        "id": "ac872ccd-75ef-4946-9f3e-decc233daa5b",
+        "cost": null,
+        "description": "Earners of this certification have a comprehensive understanding of application life-cycle management. They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices.",
+        "global_activity_url": "https://aws.amazon.com/certification/certified-developer-associate/",
+        "level": "Intermediate",
+        "name": "AWS Certified Developer – Associate",
+        "vanity_slug": "aws-certified-developer-associate",
+        "time_to_earn": null,
+        "type_category": "Certification",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "translatable": false,
+        "image": {
+          "id": "b9feab85-1a43-4f6c-99a5-631b88d5461b",
+          "url": "https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+        },
+        "image_url": "https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png",
+        "url": "https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate",
+        "issuer": {
+          "summary": "issued by Amazon Web Services Training and Certification",
+          "entities": [
+            {
+              "label": "Issued by",
+              "primary": true,
+              "entity": {
+                "type": "Organization",
+                "id": "7b741b5c-231d-4925-8041-c64b6846f1c8",
+                "name": "Amazon Web Services Training and Certification",
+                "url": "https://www.credly.com/api/v1/organizations/7b741b5c-231d-4925-8041-c64b6846f1c8",
+                "vanity_url": "https://www.credly.com/org/amazon-web-services",
+                "internationalize_badge_templates": false,
+                "share_to_ziprecruiter": true,
+                "verified": false
+              }
+            }
+          ]
+        },
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "id": "dc183dee-f3b7-4da3-9906-a3880fbd65ee",
+            "activity_type": "Assessment",
+            "required_badge_template_id": null,
+            "title": "Successfully passed the AWS Certified Developer – Associate exam.",
+            "url": null
+          }
+        ],
+        "endorsements": [],
+        "skills": [
+          {
+            "id": "87f75c05-6cff-4044-b641-f871a1ea345a",
+            "name": "Amazon Web Services",
+            "vanity_slug": "amazon-web-services"
+          },
+          {
+            "id": "682d4927-14e7-490c-96d3-c8f3ef0995de",
+            "name": "AWS",
+            "vanity_slug": "aws"
+          },
+          {
+            "id": "d914920b-ba3e-4220-9b51-957642f3104a",
+            "name": "AWS Certification",
+            "vanity_slug": "aws-certification"
+          },
+          {
+            "id": "918edc32-0894-4957-a91f-d96300b8b8d3",
+            "name": "AWS Cloud",
+            "vanity_slug": "aws-cloud"
+          },
+          {
+            "id": "c42a5758-3258-4516-9188-5b019ddd1241",
+            "name": "Cloud Certification",
+            "vanity_slug": "cloud-certification"
+          },
+          {
+            "id": "9ff46618-148c-4cd3-828e-104eabab5906",
+            "name": "Code Deployment",
+            "vanity_slug": "code-deployment"
+          },
+          {
+            "id": "4ebc96e9-8533-4828-8ca7-e5dd2390e4cc",
+            "name": "Code Development",
+            "vanity_slug": "code-development"
+          }
+        ]
+      },
+      "image": {
+        "id": "b9feab85-1a43-4f6c-99a5-631b88d5461b",
+        "url": "https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+      },
+      "image_url": "https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png",
+      "evidence": [],
+      "recommendations": []
+    }
+  ],
+  "metadata": {
+    "count": 1,
+    "current_page": 1,
+    "total_count": 1,
+    "total_pages": 1,
+    "per": 48,
+    "previous_page_url": null,
+    "next_page_url": null
+  }
+}
