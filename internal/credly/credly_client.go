@@ -43,7 +43,7 @@ type BadgeTemplate struct {
 
 func (c credlyClient) GetBadgesByUsername(username string) []Badge {
 	req, err := http.NewRequest("GET",
-		fmt.Sprintf("https://www.credly.com/users/%s/badges?sort=-date_updated_at&page=1", username),
+		fmt.Sprintf("https://www.credly.com/users/%s/badges?sort=-state_updated_at&page=1", username),
 		nil,
 	)
 
