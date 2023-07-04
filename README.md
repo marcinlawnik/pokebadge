@@ -15,4 +15,4 @@ Result file will show up in repo root directory.
 
 ## Sample output
 
-!sample pokebadge output](https://raw.githubusercontent.com/marcinlawnik/pokebadge/main/sample.png)
+![sample pokebadge output](https://raw.githubusercontent.com/marcinlawnik/pokebadge/main/sample.png)
